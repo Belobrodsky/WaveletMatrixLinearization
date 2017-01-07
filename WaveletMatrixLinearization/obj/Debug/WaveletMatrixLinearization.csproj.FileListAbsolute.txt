@@ -1,0 +1,11 @@
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\bin\Debug\WaveletMatrixLinearization.exe.config
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\bin\Debug\WaveletMatrixLinearization.exe
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\bin\Debug\WaveletMatrixLinearization.pdb
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\bin\Debug\MathNet.Numerics.dll
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\bin\Debug\MathNet.Numerics.xml
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\obj\Debug\WaveletMatrixLinearization.csprojResolveAssemblyReference.cache
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\obj\Debug\WaveletMatrixLinearization.Form1.resources
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\obj\Debug\WaveletMatrixLinearization.Properties.Resources.resources
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\obj\Debug\WaveletMatrixLinearization.csproj.GenerateResource.Cache
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\obj\Debug\WaveletMatrixLinearization.exe
+H:\PHD\WaveletMatrixLinearization\WaveletMatrixLinearization\obj\Debug\WaveletMatrixLinearization.pdb
